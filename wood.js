@@ -1,3 +1,5 @@
+
+
 function wood(chairquantity,tablequeantity,bedquantity){
     const perchair=50;
     const pertable=60;
