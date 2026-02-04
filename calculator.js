@@ -1,4 +1,5 @@
 
+// calculator design using function 
 
 function additon(a,b){
     const add=a+b;
